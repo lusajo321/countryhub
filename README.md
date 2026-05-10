@@ -39,11 +39,6 @@ The application uses REST APIs to fetch real-time country data and provides a cl
 |-------------|----------------|
 | ![](screenshots/Angola-2.png) | ![](screenshots/Angola-dark.png) |
 
-### Statistics Section
-
-| Country Statistics |
-|--------------------|
-| ![](screenshots/light_stats.png) |
 
 ---
 
